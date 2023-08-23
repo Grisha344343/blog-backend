@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc764347-a637-4255-bea1-c67a228c6af4" name="Changes" comment="truncate post text.">
+    <list default="true" id="cc764347-a637-4255-bea1-c67a228c6af4" name="Changes" comment="fix card max-width">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692778185780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix card max-width">
+      <created>1692778691031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692778691031</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +86,7 @@
     <MESSAGE value="add post cards" />
     <MESSAGE value="render posts on index page." />
     <MESSAGE value="truncate post text." />
-    <option name="LAST_COMMIT_MESSAGE" value="truncate post text." />
+    <MESSAGE value="fix card max-width" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix card max-width" />
   </component>
 </project>
