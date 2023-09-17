@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc764347-a637-4255-bea1-c67a228c6af4" name="Changes" comment="добавил .xml в .gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="cc764347-a637-4255-bea1-c67a228c6af4" name="Changes" comment="обновил base.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,21 +156,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693644601524</updated>
     </task>
-    <task id="LOCAL-00016" summary="исправил названия страниц">
-      <created>1694942750397</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1694942750397</updated>
-    </task>
-    <task id="LOCAL-00017" summary="добавил .xml в .gitignore">
-      <created>1694942836147</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1694942836147</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,8 +185,6 @@
     <MESSAGE value="added a new file base.html" />
     <MESSAGE value="обновил contact.html" />
     <MESSAGE value="обновил base.html" />
-    <MESSAGE value="исправил названия страниц" />
-    <MESSAGE value="добавил .xml в .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавил .xml в .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновил base.html" />
   </component>
 </project>
