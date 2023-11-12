@@ -56,9 +56,9 @@
                   <img class="img-fluid" src="{% static 'img/banner/blog.png' %}" alt="БАНЕР БЛОГА">
                 {% endif %}
                 <ul style="max-width: 550px;" class="thumb-info">
-                  <li><a href="{% url 'post_detail' post.slug %}K"><i class="ti-user" alt="Иконка"></i>{{post.author}}</a></li>
-                  <li><a href="{% url 'post_detail' post.slug %}"><i class="ti-notepad" alt="Иконка"></i>{{post.published_at}}</a></li>
-                  <li><a href= "{% url 'post_detail' post.slug %}" ><i class="ti-themify-favicon" alt="Иконка"></i>{{post.comments_amount}}</a></li>
+                  <li><a href="{% url 'post_detail' post.slug %}K"><i class="ti-user"></i>{{post.author}}</a></li>
+                  <li><a href="{% url 'post_detail' post.slug %}"><i class="ti-notepad"></i>{{post.published_at}}</a></li>
+                  <li><a href= "{% url 'post_detail' post.slug %}" ><i class="ti-themify-favicon"></i>{{post.comments_amount}}</a></li>
                 </ul>
               </div>
               <div class="details mt-20">
